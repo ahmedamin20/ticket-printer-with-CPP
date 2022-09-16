@@ -1,0 +1,4 @@
+#ifndef _recources_rc
+#define _recources_rc
+MAINICON ICON "favicon.ico"
+#endif // _recources_rc
